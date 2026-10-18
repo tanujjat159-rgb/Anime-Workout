@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anime Workout</string>
+    <string name="title_workout_timer">Anime Workout Timer</string>
+    <string name="start_workout">START WORKOUT</string>
+    <string name="pause_workout">PAUSE</string>
+    <string name="resume_workout">RESUME</string>
+    <string name="stop_workout">ABORT</string>
+    <string name="skip_interval">SKIP PHASE</string>
+    <string name="work_phase">WORK / FIGHT</string>
+    <string name="rest_phase">REST / RECOVER</string>
+    <string name="prepare_phase">GET READY</string>
+    <string name="cooldown_phase">VICTORY</string>
+    <string name="round_counter">ROUND %1$d OF %2$d</string>
+    <string name="power_level">POWER LEVEL: %1$d</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Anime Workout Timer",
+  "description": "An anime-inspired workout interval timer featuring animated fight scenes, motivational anime quotes, battle voice announcements, custom routines, and power level tracking to keep you hyped while exercising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
